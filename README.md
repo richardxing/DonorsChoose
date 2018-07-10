@@ -8,6 +8,7 @@ DonorsChoose is a platform where teachers request funds for their students for e
 Jupyter notebook
 packages:Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost, NLTK, TextBlob, tqdm, Keras
 
+Notice that codes are not complete. They need to be organized, too. The AUC=0.81 results are based on multiple learners stacking together. 
 ## Data preview and EDA
 TBD
 ## Data cleaning and feature engineering
